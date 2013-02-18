@@ -1,0 +1,4 @@
+snownotifier
+============
+
+The Snowlinux notifier
