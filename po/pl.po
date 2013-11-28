@@ -199,7 +199,7 @@ msgstr ""
 
 #: ../src/reboot.c:102
 msgid "Reboot failed"
-msgstr "Nieudano ponowne uruchomienie"
+msgstr "Nieudane ponowne uruchomienie"
 
 #: ../src/reboot.c:103
 msgid "Failed to request reboot, please shutdown manually"
